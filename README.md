@@ -2,6 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/77290618/117015825-16bb3d00-acc0-11eb-9d97-5f618585ab42.png)
 
+
+
+https://user-images.githubusercontent.com/77290618/122846592-2de7d580-d2d4-11eb-8fb0-7de5367ab8fe.mp4
+
+
 1) Publish this repo on Github pages. 
 2) Download the workbook and .trex file
 3) Change the <URL> paramater to the github pages link
